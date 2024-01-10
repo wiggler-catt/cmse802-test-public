@@ -6,3 +6,7 @@ c = True
 
 print(a + b)
 print(b + c)
+
+# adding a few more lines of code:S
+print(a*c)
+print(a / c)
