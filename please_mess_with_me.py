@@ -1,4 +1,5 @@
 # There is a mistake in the following code. Can you help correct it?
+Yes! Removed the ""
 
 a = 1
 b = 1
