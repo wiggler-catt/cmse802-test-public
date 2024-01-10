@@ -4,5 +4,8 @@ a = "1"
 b = 1
 c = True
 
-print(a + b)
+#print(a + b)
 #print(b + c)
+
+print(2+3)
+print(type(c) == type(b))
