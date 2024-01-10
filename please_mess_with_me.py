@@ -4,5 +4,5 @@ a = "1"
 b = 1
 c = True
 
-print(a + b)
+#print(a + b) # TypeError: can only concatenate str (not "int") to str
 print(b + c)
