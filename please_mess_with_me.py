@@ -6,3 +6,4 @@ c = True
 
 #print(a + b) # TypeError: can only concatenate str (not "int") to str
 print(b + c)
+print("Adding few more lines in the code")
