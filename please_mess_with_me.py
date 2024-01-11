@@ -4,5 +4,9 @@ a = "1"
 b = 1
 c = True
 
-print(a + b)
+# print(a + b)
 print(b + c)
+
+print(a)
+
+print(a,'+ 1 =2')
